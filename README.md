@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cjstanton
-- 👀 I am a research and teacher
+- 👀 I am a researcher and teacher
 - 🌱 I’m teaching some of my students to use Git
 - 💞️ I’m looking to collaborate on ... nothing right now. 
 - 📫 How to reach me ... google. 
